@@ -1,0 +1,12 @@
+安装虚拟环境virtualenv
+进入虚拟环境 workon testvir2
+pip要配置环境变量
+C：\users\administrator\testvir\scripts   workon testvir2
+
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#mysql-python下载对应的包版本
+
+有中文添加 # _*_ coding:utf-8 _*_
+form表单前面加{% csrf_token %}
+
+
+makemigrations - migrate
